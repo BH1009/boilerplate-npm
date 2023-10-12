@@ -1,0 +1,19 @@
+{
+	"name": "fcc-learn-npm-package-json",
+  "description": "Desarrollo Back End y APIs",
+  "keywords": ["backend", "nodejs", "APIs", "freecodecamp"],
+  "author": "Brayan Hernandez",
+  "license": "MIT",
+  "version": "1.0.0",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
